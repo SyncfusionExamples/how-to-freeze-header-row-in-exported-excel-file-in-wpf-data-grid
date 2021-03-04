@@ -1,10 +1,10 @@
 # How to freeze header row in exported excel file in WPF DataGrid (SfDataGrid) ?
 
-How to freeze header row in exported excel file in WPF DataGrid (SfDataGrid) ?
+This sample show cases how to freeze header row in exported excel file in [WPF DataGrid](https://www.syncfusion.com/wpf-ui-controls/datagrid) (SfDataGrid)?
 
 # About the sample
 
-In [WPF DataGrid](https://www.syncfusion.com/wpf-ui-controls/datagrid) (SfDataGrid), you can freeze the header row in the exported Excel sheet using FreezePanes method in IRange interface.
+You can freeze the header row in the exported Excel sheet using FreezePanes method in `IRange` interface in [WPF DataGrid](https://www.syncfusion.com/wpf-ui-controls/datagrid) (SfDataGrid).
 
 ```c#
 //Select freeze pane range
