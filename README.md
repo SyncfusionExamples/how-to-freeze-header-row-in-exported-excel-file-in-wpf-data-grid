@@ -15,5 +15,7 @@ range.FreezePanes();
 ```
 Note: Once you run the sample exported excel file saved inside the bin folder.
 
+KB article - [How to freeze header row in exported excel file in WPF DataGrid (SfDataGrid)?](https://www.syncfusion.com/kb/12007/how-to-freeze-header-row-in-exported-excel-file-in-wpf-datagrid-sfdatagrid)
+
 ## Requirements to run the demo
  Visual Studio 2015 and above versions
